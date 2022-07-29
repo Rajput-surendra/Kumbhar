@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240806976963",
+    "project_id": "indian-milan",
+    "storage_bucket": "indian-milan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240806976963:android:64bd3a8e203f0d0f2af176",
+        "android_client_info": {
+          "package_name": "com.example.kumbhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240806976963-580170mv6io2cluo8tmfa1defpudncpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kumbhar",
+            "certificate_hash": "fbdc74764999339057153522ef65ce4d57c9c36f"
+          }
+        },
+        {
+          "client_id": "240806976963-vco8tnmgs338p8upbcs0n125riabehn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZd0miLa7hjJ7u8bX26HtfMDOG0eIMfs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240806976963-vco8tnmgs338p8upbcs0n125riabehn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
